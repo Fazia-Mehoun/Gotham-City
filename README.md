@@ -1,6 +1,6 @@
 Titre du projet : Gestion du projet en Transformation Digitale de gestion des déchets – Gotham City Catégorie du projet : Transformation Digitale
 
-Année : 2023
+Année : 2024
 
 Projet en : Solo / 2 Mois
 
